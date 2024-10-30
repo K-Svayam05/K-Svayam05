@@ -9,7 +9,7 @@
 - 💡 Curious and eager to adapt to new technologies.
 - 💻 Skilled in Python, C++, Java, and modern web technologies like the MERN stack.
 - 🌱 Currently exploring Machine Learning and Artificial Intelligence.
-- 📫 Reach me at [kapadiasvayam005@gmail.com](mailto:kapadiasvayam005@gmail.com).
+- 📫 Reach me at [kapadiasvayam005@gmail.com](mailto:kapadiasvayam005@gmail.com) or [svayamkapadia.work@gmail.com](mailto:svayamkapadia.work@gmail.com).
 
 ## 🔧 Technologies & Tools
 
