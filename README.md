@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=K-Svayam05&color=brightgreen)
 
 ## 🚀 About Me
-- 🎓 **B.Tech CSE (2022-2026)** at IIIT Pune with a CGPA of 9.40.
+- 🎓 **B.Tech CSE (2022-2026)** at IIIT Pune with a CGPA of 9.44.
 - 💡 Curious and eager to adapt to new technologies.
 - 💻 Skilled in Python, C++, Java, and modern web technologies like the MERN stack.
 - 🌱 Currently exploring Machine Learning and Artificial Intelligence.
@@ -23,36 +23,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
-## 🏆 Experience
-- **National Research Group and Extern AI Risk Landscape Market Research Extern (July-August 2024)**
-  - Gained insights into the AI risk landscape and identified key industry influencers.
-
-- **Goldman Sachs Software Engineering Virtual Experience Program on Forage (July 2024)**
-  - Simulated IT security assessments, including password protection enhancements.
-
-- **GSSoC’24 Contributor (May 2024)**
-  - Contributed to projects using React.js, Node.js, and MongoDB.
-
-## 💼 Projects
-
-### MERN-AI-Chatbot
-- An AI Chatbot application built using the MERN Stack and OpenAI.
-- Features JWT Tokens, HTTP-Only Cookies, and Password Encryption.
-- [GitHub Repository](https://github.com/K-Svayam05/SK-MERN-AI-CHATBOT)
-
-### Medicine Prescriber
-- Java-based GUI and Web Application for managing medicinal prescriptions.
-- Integrated MySQL database and developed real-time communication features.
-- [GitHub Repository](https://github.com/K-Svayam05/Medicine-Prescriber)
-
-### Personal Portfolio
-- A responsive and interactive portfolio built with React.js and HTML.
-- [GitHub Repository](https://github.com/K-Svayam05/My_Portfolio/tree/master)
-
-### Diabetes Prediction
-- A neural network model predicting diabetes with 92% accuracy.
-- [GitHub Repository](https://github.com/K-Svayam05/ML--Diabetes-Prediction)
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svayam-kapadia-78218b246/)
@@ -62,11 +32,6 @@
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/svayam_05/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/svayam_05)
-
-## ✨ Fun Facts
-- I am a CodeChef 3-star coder with a rating of 1657.
-- I enjoy public speaking, content writing, and graphic designing.
-- I am the Head of the Literary Society of IIIT Pune.
 
 ---
 
